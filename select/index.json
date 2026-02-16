@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ネモフィラ",
+  "base_artist": "WAZGOGG",
+  "createdAt": "2026-02-16T13:26:05.168964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネモフィラ",
+      "artist": "イツエ",
+      "has_synced": false,
+      "path": "select/01_ネモフィラ_イツエ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネモフィラ",
+      "artist": "COALAMODE.",
+      "has_synced": true,
+      "path": "select/02_ネモフィラ_COALAMODE..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネモフィラ - Nemophila",
+      "artist": "COALAMODE.",
+      "has_synced": true,
+      "path": "select/03_ネモフィラ_-_Nemophila_COALAMODE..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネモフィラ",
+      "artist": "コアラモード.",
+      "has_synced": true,
+      "path": "select/04_ネモフィラ_コアラモード..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネモフィラ (feat. GOMESS)",
+      "artist": "WAZGOGG",
+      "has_synced": false,
+      "path": "select/pl_01_ネモフィラ_(feat._GOMESS)_WAZGOGG.txt"
+    }
+  ]
+}
